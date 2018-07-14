@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LatihanMADE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul_film">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="rilis">rilis</string>
+    <string name="cari">cari</string>
+</resources>
